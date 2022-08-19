@@ -1,0 +1,16 @@
+statsmodels
+numba
+pandas
+sklearn
+black
+jupyter
+seaborn
+fastapi
+pydantic
+uvicorn[standard]
+strawberry-graphql[fastapi]
+tqdm
+torch
+torch_sparse
+torch-geometric
+torch_scatter
