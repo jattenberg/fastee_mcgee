@@ -10,4 +10,3 @@ pydantic
 uvicorn[standard]
 strawberry-graphql[fastapi]
 tqdm
-taichi
